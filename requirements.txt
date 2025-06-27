@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+matplotlib
+requests
+pillow
+tqdm
+torchinfo
+tensorboardX
+setuptools==59.5.0
